@@ -1,0 +1,4 @@
+[package]
+name = "base85"
+version = "0.0.1"
+authors = ["Félix Saparelli <me@passcod.name>"]
